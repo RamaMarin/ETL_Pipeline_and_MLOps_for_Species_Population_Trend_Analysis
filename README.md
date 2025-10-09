@@ -1,2 +1,2 @@
-# Pipeline-ETL-y-MLOps-para-el-An-lisis-de-Tendencias-de-Poblaciones-de-Especies-
+# ETL_Pipeline_and_MLOps_for_Species_Population_Trend_Analysis
 This project proposes the design and implementation of a robust, automated data pipeline in the AWS cloud to analyze the Living Planet Index (LPI) 2024 dataset. The main objective is to apply a linear regression model to predict and understand trends (positive or negative) in the populations of various species over time.
